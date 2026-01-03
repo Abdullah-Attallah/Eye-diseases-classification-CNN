@@ -76,4 +76,4 @@ Model performance is evaluated using:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/eye-disease-classification.git
+git clone https://github.com/Abdullah-Attallah/Eye-diseases-classification-CNN.git
